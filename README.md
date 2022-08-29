@@ -1,3 +1,3 @@
 # Demo
 
-This is just an experiment!
+This is just an experiment.
